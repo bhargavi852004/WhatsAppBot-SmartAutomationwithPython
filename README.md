@@ -1,7 +1,3 @@
-Certainly! Here's the README file without the installation part:
-
----
-
 # WhatsApp Automation with PyWhatKit
 
 This Python project utilizes the PyWhatKit library to automate WhatsApp messages sending. With just a few lines of code, you can schedule messages, send bulk messages, and even execute other actions on WhatsApp. Whether you want to send reminders, notifications, or automate routine tasks, this project provides a simple yet powerful solution.
