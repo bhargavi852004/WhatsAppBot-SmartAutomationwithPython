@@ -22,10 +22,6 @@ python main.py
 - **Youtube videos:** You can directly connect to youtube for watching videos.
 - **Google Search:** you can also directly open google search engine for searching.
 
-## Contributing
+## Contributors
 
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
-
----
-
-Feel free to adjust the content according to your project's specific details and requirements.
+- Nagulapally Bhargavi - https://github.com/bhargavi852004
