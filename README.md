@@ -12,7 +12,6 @@ python main.py
 ```
 
 4. Sit back and watch as the messages are sent automatically!
-
 ## Features
 
 - **Message Scheduling:** Schedule messages to be sent at a specific time.
